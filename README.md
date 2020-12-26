@@ -19,8 +19,9 @@
 >>2、定时任务的时间是UTC时间，跟中国时间有8小时的时差。
 > 
 >  **问题二：京东Cookie的有效期**
+
 > 
-> >就我自己项目中的使用情况而言，一个月有效期。
+> >就我自己项目中的使用情况而言，一个月有效期.
 
 
 
@@ -42,7 +43,7 @@
 * 登录[领京豆](https://bean.m.jd.com/)；
 * 点击`JDCookie`即可拷贝京东cookie；
 
-## 获取Server酱SCKEY
+## 获取Server酱SCKEY.
 
 * github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网；
 * 菜单栏`微信推送`扫描绑定微信；
